@@ -1,0 +1,40 @@
+.bp,.con,.f{
+    float: left;
+    height: 100px;
+    width: 100%;
+    margin: 5px;
+    padding-left: 10px;
+}
+
+.bp{
+    background-color: #FFEAD0;
+    width: 200px;
+}
+
+.con{
+    background-color: #C8EAF5;
+    width: 400px;
+}
+
+.f{
+    clear: both;
+    background-color: #E2EDC1;
+    width: 620px;
+    height: auto;
+}
+
+.n,.c,.b{
+    float: left;
+    padding-left: 10px;
+    width: 130px;
+    height: 100px;
+}
+
+.c{
+    background-color: #C8EAF5;
+}
+
+.b{
+    background-color: #E2EDC1;
+    width: 100px;
+}
